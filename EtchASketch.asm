@@ -1,4 +1,4 @@
- # Title  : Final Project
+ # Title  : Etch-A-Sketch
  # Author : Trevor Ransom
  # Desc   : Etch-A-Sketch in MIPS
  # Date   : 12-06-2021
